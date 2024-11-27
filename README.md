@@ -8,7 +8,7 @@ Through a user-friendly graphical interface, players navigate a web of choices, 
 
 ![image](https://github.com/user-attachments/assets/63b25f3b-a470-45f4-a6b3-c840273f4efd)
 
-It serves as an educational and entertaining tool, showcasing the potential of data structures for crafting interactive narratives and engaging users in captivating, personalized storytelling adventures. By employing depth first search algorithm, we also create an effective credit score system to track the max number of points that could be scored by the user in the game and also display the current points scored by the user in the gameplay. 
+It serves as an educational and entertaining tool, showcasing the potential of data structures for crafting interactive narratives and engaging users in captivating, personalized storytelling adventures. By employing depth first search algorithm, an effective credit score system to track the max number of points that could be scored by the user in the game and also display the current points scored by the user in the gameplay is also created. 
 
 ![image](https://github.com/user-attachments/assets/ec68266b-8ca8-4fdc-9ad0-663f87921eaf)
 
